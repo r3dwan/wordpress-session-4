@@ -1,0 +1,49 @@
+#todo-plugin {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.todo-input-group {
+    margin-bottom: 20px;
+}
+
+#todo-title {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+#todo-description {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    min-height: 100px;
+}
+
+#todo-list {
+    margin-top: 20px;
+}
+
+#todo-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    list-style: none;
+}
+
+.delete-task {
+    background: #ff4444;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#todo-add-btn {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
